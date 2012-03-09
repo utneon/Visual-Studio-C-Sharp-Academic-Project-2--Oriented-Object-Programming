@@ -1,0 +1,20 @@
+C:\Users\Paulo Carvalho\AppData\Local\Temporary Projects\tl2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Paulo Carvalho\AppData\Local\Temporary Projects\tl2\bin\Debug\tl2.exe
+C:\Users\Paulo Carvalho\AppData\Local\Temporary Projects\tl2\bin\Debug\tl2.pdb
+C:\Users\Paulo Carvalho\AppData\Local\Temporary Projects\tl2\obj\x86\Debug\tl2.exe
+C:\Users\Paulo Carvalho\AppData\Local\Temporary Projects\tl2\obj\x86\Debug\tl2.pdb
+C:\Users\Paulo Carvalho\documents\visual studio 2010\Projects\tl2\tl2\obj\x86\Debug\tl2.exe
+C:\Users\Paulo Carvalho\documents\visual studio 2010\Projects\tl2\tl2\obj\x86\Debug\tl2.pdb
+C:\Users\Paulo Carvalho\documents\visual studio 2010\Projects\tl2\tl2\bin\Debug\tl2.exe
+C:\Users\Paulo Carvalho\documents\visual studio 2010\Projects\tl2\tl2\bin\Debug\tl2.pdb
+C:\Users\Paulo Carvalho\documents\visual studio 2010\Projects\tl2\tl2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Paulo\Documents\Visual Studio 2010\Projects\tl2\tl2\obj\x86\Debug\tl2.exe
+C:\Users\Paulo\Documents\Visual Studio 2010\Projects\tl2\tl2\obj\x86\Debug\tl2.pdb
+C:\Users\Paulo\Documents\Visual Studio 2010\Projects\tl2\tl2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Paulo\Documents\Visual Studio 2010\Projects\tl2\tl2\bin\Debug\tl2.exe
+C:\Users\Paulo\Documents\Visual Studio 2010\Projects\tl2\tl2\bin\Debug\tl2.pdb
+C:\Users\Paulo Carvalho\Documents\Visual Studio 2010\Projects\tl2v2\tl2\obj\x86\Debug\tl2.exe
+C:\Users\Paulo Carvalho\Documents\Visual Studio 2010\Projects\tl2v2\tl2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Paulo Carvalho\Documents\Visual Studio 2010\Projects\tl2v2\tl2\bin\Debug\tl2.exe
+C:\Users\Paulo Carvalho\Documents\Visual Studio 2010\Projects\tl2v2\tl2\bin\Debug\tl2.pdb
+C:\Users\Paulo Carvalho\Documents\Visual Studio 2010\Projects\tl2v2\tl2\obj\x86\Debug\tl2.pdb
